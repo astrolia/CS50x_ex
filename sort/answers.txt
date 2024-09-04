@@ -1,0 +1,11 @@
+sort1 uses: bubble sort
+
+How do you know?: The execution time between sorted list and reversed/random list is very diferent(sorted is faster, some times the fastest program)
+
+sort2 uses: merge sort
+
+How do you know?: The execution time in all cases are very similar and, faster than the oders programs in most of the cases
+
+sort3 uses: selection sort
+
+How do you know?: Expends more time than the oders programs and the execution time is very similar in all cases
